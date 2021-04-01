@@ -13,3 +13,23 @@ I have a page on [Facebook](https://www.facebook.com/AndroidFreeAppPage) with mo
 - 💬 Ask me about anything, I am always ready to help, thats my USP
 - 📫 To reach me, you can just drop a message on my [Linkedin](https://www.linkedin.com/in/manish-sharma-19636b51/) or [Twitter](https://twitter.com/__manishsharma)
 - ⚡ Fun fact about me is that I never hesitate in sledging my dear ones and sometimes got burns in return :stuck_out_tongue_winking_eye: :trollface: .
+
+
+<p align="left">
+  <a href="https://github.com/manishsharmaec"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://github.com/manishsharmaec/manishsharmaec/blob/main/assets/github.svg"></a>
+  <a href="https://jitpack.io/#manishsharmaec/dependencypackage"><img alt="JitPack" title="npm" height="32" width="32" src="https://github.com/manishsharmaec/manishsharmaec/blob/main/assets/jitpack_logo.png"></a>
+  <a href="https://www.linkedin.com/in/manish-sharma-19636b51"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://github.com/manishsharmaec/manishsharmaec/blob/main/assets/linkedin.svg"></a>
+   <a href="https://medium.com/@manishsharma007"><img alt="Medium" title="Medium" height="32" width="32" src="https://github.com/manishsharmaec/manishsharmaec/blob/main/assets/medium.png"></a>
+</p>
+
+<p align="left">
+  
+  <a href="https://www.facebook.com/manishsharmaec051"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://github.com/manishsharmaec/manishsharmaec/blob/main/assets/facebook.svg"></a>
+<a href="https://twitter.com/__manishsharma"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://github.com/manishsharmaec/manishsharmaec/blob/main/assets/twitter.svg"></a>
+ <a href="https://www.youtube.com/channel/UCdLOBpInqnohlIAqQLgNlUQ"><img alt="YouTube" title="YouTube" height="32" width="32" src="https://github.com/manishsharmaec/manishsharmaec/blob/main/assets/youtube.svg"></a>
+</p>
+
+
+<p align="left">
+<a href="https://www.paypal.com/paypalme/manishsharmaec"><img alt="PayPal" title="PayPal" height="32" width="32" src="https://github.com/manishsharmaec/manishsharmaec/blob/main/assets/paypal.svg"></a>
+</p>
